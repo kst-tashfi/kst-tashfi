@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaniz Samiha Tashfi
-- 👀 I’m interested in Data Science, Cybersecurity, BlockChains,Full Stack Web Development and Machine learning
-- 🌱 I’m currently a student of Computer Scirnce and Engineering at Brac University
+- 👀 I’m interested in Cybersecurity, BlockChains and Full Stack Web Development
+- 🌱 I’m currently a student of Computer Science and Engineering at Brac University
 - 📫 Reach me at kst.tashfi@gmail.com
 <!---
 kst-tashfi/kst-tashfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
